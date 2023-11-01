@@ -1,0 +1,15 @@
+.tableHeader {
+    background-color: black;
+}
+.tableHeader *{
+    color: white!important;
+}
+.tableContainer{
+    padding: 15px
+}
+.closeModal{
+    float: right;
+}
+.tableApp.AppBar {
+    background-color: black;
+}
